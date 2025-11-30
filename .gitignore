@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Data folders (you can unignore small demo files later if you want)
+data/raw/
+data/processed/
+
+# VS Code settings
+.vscode/
